@@ -1,0 +1,9 @@
+Added Component: Designator=VR1(Multiturn trimpot flat long)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=VR1-2
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=VR1-1
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=ADF_2nd_LO_board Member=Component VR1 Multiturn trim pot

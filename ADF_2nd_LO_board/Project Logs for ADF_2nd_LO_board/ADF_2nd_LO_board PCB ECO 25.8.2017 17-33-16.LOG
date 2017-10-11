@@ -1,0 +1,25 @@
+Added Component: Designator=J4(ROS-32K201-400L5_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.rosenberger.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://rosenberger.de/ok/images/documents/db/32K201-400L5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://rosenberger.de/ok/images/documents/db/32K201-400L5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Series Overview / Design Note"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://rosenberger.de/ok/images/documents/spez/32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Webshop / RFQ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "http://www.rosenberger.com/en/contact/sales/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "a00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Note"; Value = "Footprint in library is a generic example - only application specific footprint delivers High Performance"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SMA Right Angle Jack, 14.8 x 6.35 x 9.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "32K201-400L5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "a00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "32K201-400L5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-MH
+Added Pin To Net: NetName=GND Pin=J4-MH
+Added Pin To Net: NetName=GND Pin=J4-MH
+Added Pin To Net: NetName=GND Pin=J4-MH
+Added Member To Class: ClassName=ADF_2nd_LO_board Member=Component J4 32K201-400L5

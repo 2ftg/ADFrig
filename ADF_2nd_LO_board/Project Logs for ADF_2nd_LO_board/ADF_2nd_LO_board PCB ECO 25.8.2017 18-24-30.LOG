@@ -1,0 +1,4 @@
+Added Component: Designator=J10(pad_smd_bodge)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=J10-1
+Added Member To Class: ClassName=ADF_2nd_LO_board Member=Component J10 pad_smd

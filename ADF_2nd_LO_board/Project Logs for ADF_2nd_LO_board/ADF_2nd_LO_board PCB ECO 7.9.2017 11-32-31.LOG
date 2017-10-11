@@ -1,0 +1,12 @@
+Added Component: Designator=OSC1(DIP-8_osc)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Frequency"; Value = "125MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "3.3V TTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "ftg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seller"; Value = "eBay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply VOltage"; Value = "3.3VDC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ3_1 Pin=OSC1-1
+Added Pin To Net: NetName=GND Pin=OSC1-4
+Added Pin To Net: NetName=NetC1_1 Pin=OSC1-5
+Added Pin To Net: NetName=NetC6_1 Pin=OSC1-8
+Added Member To Class: ClassName=ADF_2nd_LO_board Member=Component OSC1 125MHz

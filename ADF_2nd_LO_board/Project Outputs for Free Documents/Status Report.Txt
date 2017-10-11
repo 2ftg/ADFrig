@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [ADF_2nd_LO_board.PcbDoc]
+   Generated File[Pick Place for ADF_2nd_LO_board.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:46:25 On 25.8.2017

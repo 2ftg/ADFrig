@@ -1,0 +1,18 @@
+Added Component: Designator=L1(SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/742792608.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Dec-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC_Resistance"; Value = "0R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrderCode"; Value = "1635681RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor, 2-Leads, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMD-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seller"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "742792608"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=VCC Pin=L1-2
+Added Member To Class: ClassName=ADF_2nd_LO_board Member=Component L1 742792608

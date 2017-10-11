@@ -1,0 +1,37 @@
+Altium Designer Pick and Place Locations
+C:\Data\ELE\ADF_2nd_LO_board\Project Outputs for ADF_2nd_LO_board\Pick Place\Pick Place for ADF_2nd_LO_board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       07.09.17
+Time:       11:33
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment              Layer    Footprint                   Center-X(mil) Center-Y(mil) Rotation Description                                                            
+OSC1       125MHz               TopLayer DIP-8_osc                   1285.000      810.000       0        "DIP Oscillator"                                                       
+L1         742792608            TopLayer SMD-0603                    90.000        685.000       90       "SMD EMI Suppression Ferrite Bead WE-CBF, Z = 47 Ohm"                  
+C1         "10nF 0603 NP0"      TopLayer C0603_murata                1435.000      1185.000      90       "10nF 0603 NP0 muRata"                                                 
+C2         Capacitor            TopLayer CAPC1005X04N_0402           1395.000      1555.000      180      "Class 1 SMD Capacitor"                                                
+C3         "Cap Semi"           TopLayer C1206                       220.000       540.000       90       "Capacitor (Semiconductor SIM Model)"                                  
+C4         "10nF 0603 NP0"      TopLayer C0603_murata                220.000       755.000       90       "10nF 0603 NP0 muRata"                                                 
+C5         "10nF 0603 NP0"      TopLayer C0603_murata                940.000       1120.000      135      "10nF 0603 NP0 muRata"                                                 
+C6         "10nF 0603 NP0"      TopLayer C0603_murata                1170.000      1205.000      360      "10nF 0603 NP0 muRata"                                                 
+C7         "Cap Semi"           TopLayer C1206                       880.000       855.000       180      "Capacitor (Semiconductor SIM Model)"                                  
+IC1        "Voltage Regulator"  TopLayer TO-252                      492.126       735.000       270      "TEXAS INSTRUMENTS  LM1117DT-ADJ  V REG ADJ +1.25/13.8V, 1117, DPAK-3" 
+J3         pad_smd              TopLayer pad_smd_bodge               1255.000      465.000       180      "1mm * 2mm smd pad"                                                    
+J9         pad_smd              TopLayer pad_smd_bodge               1255.000      375.000       180      "1mm * 2mm smd pad"                                                    
+P1         "Header 2"           TopLayer HDR1X2                      90.000        850.000       90       "Header, 2-Pin"                                                        
+P2         "Header 2"           TopLayer HDR1X2                      1130.000      1685.000      180      "Header, 2-Pin"                                                        
+R1         "120R 0603"          TopLayer R0603                       545.000       940.000       90       "120R 0603"                                                            
+R3         "18R 0603"           TopLayer R0603                       1435.000      1410.000      270      "10R 0603"                                                             
+R4         "300R 0603"          TopLayer R0603                       1480.000      1315.000      0        "10R 0603"                                                             
+R5         "300R 0603"          TopLayer R0603                       1480.000      1510.000      180      "10R 0603"                                                             
+R6         Resistor             TopLayer RESC1608X06N_0603           1090.000      1135.000      0        "Bulk SMD Resistor"                                                    
+J4         32K201-400L5         TopLayer ROS-32K201-400L5_V          1435.000      1765.000      360      "SMA Right Angle Jack, Up to 18 GHz, -65 to 165 degC"                  
+VR1        "Multiturn trim pot" TopLayer Multiturn_trimpot_flat_long 505.000       1570.000      90       ""                                                                     
+P3         "Header 2H"          TopLayer HDR1X2H                     895.000       1685.000      180      "Header, 2-Pin, Right Angle"                                           
+C8         "Cap Semi"           TopLayer 1608[0603]                  425.000       1020.000      360      "Capacitor (Semiconductor SIM Model)"                                  
+J10        pad_smd              TopLayer pad_smd_bodge               340.000       310.000       90       "1mm * 2mm smd pad"                                                    
