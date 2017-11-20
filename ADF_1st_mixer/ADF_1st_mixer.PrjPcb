@@ -55,6 +55,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EHSHCXTV
 
+[Document2]
+DocumentPath=ADF_1st_mixer.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YMSSPNQI
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -974,6 +991,7 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+MultiChannelAlternate=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
