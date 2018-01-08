@@ -1,0 +1,15 @@
+Added Component: Designator=P1(HDR2X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=P1-7
+Added Pin To Net: NetName=VCC Pin=P1-8
+Added Pin To Net: NetName=GND Pin=P1-9
+Added Pin To Net: NetName=GND Pin=P1-10
+Added Pin To Net: NetName=RX_Enable Pin=P1-4
+Added Net: Name=RX_Enable
+Added Pin To Net: NetName=TX_Enable Pin=P1-3
+Added Net: Name=TX_Enable
+Added Member To Class: ClassName=ADF_1st_mixer Member=Component P1 Header 5X2
+Added Room: Name=ADF_1st_mixer

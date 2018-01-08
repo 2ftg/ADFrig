@@ -1,0 +1,109 @@
+Removed Pin From Net: NetName=3.3V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=3.3V Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=J2-MP
+Removed Pin From Net: NetName=GND Pin=J2-MP
+Removed Pin From Net: NetName=GND Pin=J4-MP
+Removed Pin From Net: NetName=GND Pin=J4-MP
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=3.3V Pin=R1-2
+Removed Pin From Net: NetName=3.3V Pin=R2-2
+Removed Pin From Net: NetName=NetJ3_1 Pin=U2-1
+Removed Pin From Net: NetName=NetJ1_1 Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Member From Class: ClassName=ADF_1st_mixer Member=C1
+Removed Member From Class: ClassName=ADF_1st_mixer Member=C2
+Removed Member From Class: ClassName=ADF_1st_mixer Member=J2
+Removed Member From Class: ClassName=ADF_1st_mixer Member=J4
+Removed Member From Class: ClassName=ADF_1st_mixer Member=Q1
+Removed Member From Class: ClassName=ADF_1st_mixer Member=Q2
+Removed Member From Class: ClassName=ADF_1st_mixer Member=R1
+Removed Member From Class: ClassName=ADF_1st_mixer Member=R2
+Removed Member From Class: ClassName=ADF_1st_mixer Member=U4
+Change Component Footprint: Designator=U6 Old Footprint=DCY0004A_L New Footprint=DCY0004A_N
+Change Component Footprint: Designator=U5 Old Footprint=MP04A_L New Footprint=MP04A_M
+Change Component Footprint: Designator=U2 Old Footprint=SC70_6 New Footprint=SOT-89
+Change Component Comment : Designator=U2 Old Comment=AS213-92LF New Comment=AH1G
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change component parameters: Designator = "U2"; Footprint = "SOT-89"; UniqueID = "\BOQELHHY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "SOT-89"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=559390"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.verical.com/server-webapp/html/getDatasheet?partID=559390"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency"; Value = "4GHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gain"; Value = "13.5dB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "TriQuint"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "AH1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "P1dB"; Value = "+22dBm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=37.74, 25=34.58, 50=32.12, 100=31.07, 250=30.01 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Newark"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "15B6194"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0603_murata)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Capacitance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/41860/partnumbering-e-01-41860759.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/41860/partnumbering-e-01-41860759.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/29537/partnumbering-e-01-29537910.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/29537/partnumbering-e-01-29537910.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GRM1885C1H103JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.13, 10=0.05, 50=0.05, 100=0.035, 1000=0.024, 10000=0.016 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM1885C1H103JA1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=L4(SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.we-online.de/katalog/media/pdf/742792608.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Dec-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC_Resistance"; Value = "0R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "47 Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OrderCode"; Value = "1635681RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Inductor, 2-Leads, Body 1.6 x 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMD-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Seller"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "742792608"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=5V Pin=C7-2
+Added Pin To Net: NetName=5V Pin=L4-1
+Added Pin To Net: NetName=NetJ3_1 Pin=U1-IF
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-3
+Added Pin To Net: NetName=NetL4_2 Pin=L4-2
+Added Pin To Net: NetName=NetL4_2 Pin=U2-2
+Added Net: Name=NetL4_2
+Change Class Name : Old Net Name=ADF_1st_mixer New Net Name=ADF_1st_mixer_TX
+Added Member To Class: ClassName=ADF_1st_mixer_TX Member=Component C7 10nF 0603 NP0
+Added Member To Class: ClassName=ADF_1st_mixer_TX Member=Component L4 742792608
+Added Room: Name=ADF_1st_mixer_TX

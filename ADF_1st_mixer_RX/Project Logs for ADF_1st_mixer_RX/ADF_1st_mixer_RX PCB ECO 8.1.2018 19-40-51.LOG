@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=3.3V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=3.3V Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=J2-MP
+Removed Pin From Net: NetName=GND Pin=J2-MP
+Removed Pin From Net: NetName=GND Pin=J3-MP
+Removed Pin From Net: NetName=GND Pin=J3-MP
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=3.3V Pin=R1-2
+Removed Pin From Net: NetName=3.3V Pin=R2-2
+Removed Pin From Net: NetName=NetJ4_1 Pin=U2-3
+Removed Pin From Net: NetName=NetJ1_1 Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Member From Class: ClassName=ADF_1st_mixer Member=C1
+Removed Member From Class: ClassName=ADF_1st_mixer Member=C2
+Removed Member From Class: ClassName=ADF_1st_mixer Member=J2
+Removed Member From Class: ClassName=ADF_1st_mixer Member=J3
+Removed Member From Class: ClassName=ADF_1st_mixer Member=Q1
+Removed Member From Class: ClassName=ADF_1st_mixer Member=Q2
+Removed Member From Class: ClassName=ADF_1st_mixer Member=R1
+Removed Member From Class: ClassName=ADF_1st_mixer Member=R2
+Removed Member From Class: ClassName=ADF_1st_mixer Member=U2
+Removed Member From Class: ClassName=ADF_1st_mixer Member=U3
+Change Component Footprint: Designator=U6 Old Footprint=DCY0004A_L New Footprint=DCY0004A_N
+Change Component Footprint: Designator=U5 Old Footprint=MP04A_L New Footprint=MP04A_M
+Added Pin To Net: NetName=NetJ4_1 Pin=U1-IF
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-RF
+Change Class Name : Old Net Name=ADF_1st_mixer New Net Name=ADF_1st_mixer_RX
+Added Room: Name=ADF_1st_mixer_RX
