@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-RF
+Added Net: Name=NetJ1_1
+Added Room: Name=ADF_1st_mixer_RX
